@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @avneesaluja
-- 👀 I’m interested in ...data analysis
-- 🌱 I’m currently learning ...python
+- 👋 Hi,My name is avneet saluja.
+- My proficient skills are MIcrosoft Power Bi and Mysql.
 
-
-- 💞️ I’m looking to collaborate on  internship in data analysis
-- 📫 How to reach me ...
 
 <!---
 avnisaluja/avnisaluja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
